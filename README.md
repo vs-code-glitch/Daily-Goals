@@ -1,3 +1,4 @@
 # DAILY GOALS REACT JS APP
-
-<img src="DAILY-GOAL.gif" width="50%" height="100%">
+<div align="center">
+<img src="Daily-Goal.gif" width="50%" height="100%">
+</div>
